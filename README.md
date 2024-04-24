@@ -1,1 +1,1 @@
-# These Are All my DApps with ICP in the Blockchain (Web3)
+# These are all my DApps with ICP in the Blockchain (Web3) 
