@@ -1,1 +1,4 @@
-# These are all my DApps with ICP in the Blockchain (Web3) 
+# In this repository are all my Web3 projects from this UdemyCourse:
+(https://www.udemy.com/course/the-complete-web-development-bootcamp)
+
+[Certificate](https://github.com/FelixMairamhof/WebDevCourse/files/15177071/WebDevCourse.pdf)
